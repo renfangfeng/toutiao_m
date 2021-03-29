@@ -1,13 +1,11 @@
 <template>
-<div id="app">
-    <h1>黑马</h1>
-    <router-view></router-view>
+<div>
+    登录组件
 </div>
 </template>
 
 <script>
 export default {
-  name: 'App',
   data () {
     return {
 
